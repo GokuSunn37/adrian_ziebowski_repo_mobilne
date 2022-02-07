@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Pozycjonowanie</string>
-    <string name="button1">SAVE</string>
-    <string name="button2">LOAD</string>
-    <string name="HINT">Write here what you want to save</string>
-</resources>

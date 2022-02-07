@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Pozycjonowanie</string>
-    <string name="button1">ZAPISZ</string>
-    <string name="button2">WCZYTAJ</string>
-    <string name="HINT">Wpisz tutaj co chcesz zapisać</string>
-</resources>
