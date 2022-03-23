@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StatsManager</string>
+    <string name="btn_start">START STREAK</string>
+    <string name="msg_start">Strat your own streak and earn good vibes.</string>
+    <string name="sm_text">Your streak info:</string>
+    <string name="sm_add">START</string>
+    <string name="sm_reset">Reset</string>
+    <string name="sm_btn_note">ADD NOTE</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StatsManager</string>
+    <string name="btn_start">ROZPOCZNIJ PASSE</string>
+    <string name="msg_start">Rozpocznij swoją szczęśliwą passę i ciesz się dobrą zabawą.</string>
+    <string name="sm_text">Informacje:</string>
+    <string name="sm_reset">Resetuj</string>
+    <string name="sm_btn_note">DODAJ NOTATKE</string>
+    <string name="sm_add">START</string>
+</resources>
